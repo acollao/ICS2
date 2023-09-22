@@ -1,0 +1,1 @@
+<script src="{{url('js/all.js')}}" crossorigin="anonymous"></script>
